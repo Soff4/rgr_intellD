@@ -33,3 +33,10 @@ df['clean_text'] = df['clean_text'].astype(str)
 
 df.to_csv('./data/cleaned_spam.csv', index=False)
 
+
+
+
+
+
+
+
